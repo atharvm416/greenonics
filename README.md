@@ -47,8 +47,8 @@ This project, developed under the **Coherent Business Solutions** team, is a ful
    
    I. **MySQL Database Creation**:
    - Create a MySQL database for the project. You can use a MySQL client like MySQL Workbench or the command line to create the database.
-
-  II. **Database Credentials**:
+   
+   II. **Database Credentials**:
    - Open `settings.py` file located in the Django backend (`greenoics/settings.py`).
    - Find the `DATABASES` dictionary and update the `NAME`, `USER`, `PASSWORD`, `HOST`, and `PORT` fields under the `'default'` key with your MySQL database credentials.
 
