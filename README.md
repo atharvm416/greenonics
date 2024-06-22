@@ -62,7 +62,7 @@ This project, developed under the **Coherent Business Solutions** team, is a ful
            'PORT': '3306',        # Or your MySQL port
        }
    }
-
+```
 4. **Backend Setup**:
 
    I. **Navigate to Backend Directory**:
@@ -111,5 +111,7 @@ This project, developed under the **Coherent Business Solutions** team, is a ful
 3. **Backend Setup**: Navigate to the backend directory, set up a virtual environment, install dependencies from `requirements.txt`, configure environment variables in `.env`, run migrations, and start the Django server.
 4. **Usage**: Provide URLs to access the frontend and backend of your application.
 
+
+Thank you for exploring the repository! If you're passionate about AI and innovative projects like this, let's connect. Feel free to reach out for collaborations or discussions on AI-related endeavors. Together, we can create something amazing!
 
 Feel free to adjust any paths, URLs, or specific instructions based on your actual setup and requirements.
