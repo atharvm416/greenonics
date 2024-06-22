@@ -43,6 +43,8 @@ This project, developed under the **Coherent Business Solutions** team, is a ful
    npm start
 
 3. **Database Setup**:
+
+   
    I. **MySQL Database Creation**:
    - Create a MySQL database for the project. You can use a MySQL client like MySQL Workbench or the command line to create the database.
 
