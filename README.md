@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project, developed under the **Coherent Business Solutions** team, is a full-stack e-commerce application named **Greenonics**. The project includes both a frontend and a backend, enabling users to register and purchase items from [greenonics.com](http://greenonics.com).
+This project, developed under the **Coherent Business Solutions** team, for company namely **Greenonics**. The project includes both a frontend and a backend, enabling users to register and purchase items from [greenonics.com](http://greenonics.com).
 
 ## Technology Stack
 
@@ -37,10 +37,13 @@ This project, developed under the **Coherent Business Solutions** team, is a ful
 2. **Frontend Setup**:
    ```bash
    cd frontend
+   ```
+
    - Install the libraries and run the code
    ```bash
    npm install
    npm start
+   ```
 
 3. **Database Setup**:
 
@@ -74,7 +77,7 @@ This project, developed under the **Coherent Business Solutions** team, is a ful
 
 
    II. **Create a Virtual Environment** (if not already created):
-       ```bash
+   ```bash
        python -m venv venv
        source venv/bin/activate   # On Windows use `venv\Scripts\activate`
        ```
@@ -82,14 +85,14 @@ This project, developed under the **Coherent Business Solutions** team, is a ful
    This step creates a virtual environment named `venv` for isolating your project's dependencies.
 
    III. **Install Required Libraries**:
-       ```bash
+   ```bash
        pip install -r requirements.txt
        ```
 
    This command installs all necessary Python libraries listed in the `requirements.txt` file.
 
    IV. **Apply Database Migrations**:
-       ```bash
+   ```bash
        python manage.py makemigrations
        python manage.py migrate
        ```
@@ -97,7 +100,7 @@ This project, developed under the **Coherent Business Solutions** team, is a ful
    These commands prepare and apply database migrations to create tables based on your Django models.
 
    V. **Run the Django Development Server**:
-       ```bash
+   ```bash
        python manage.py runserver
        ```
 
