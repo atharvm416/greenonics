@@ -72,20 +72,21 @@ This project, developed under the **Coherent Business Solutions** team, is a ful
       cd backend
       ```
 
+
    II. **Create a Virtual Environment** (if not already created):
        ```bash
        python -m venv venv
        source venv/bin/activate   # On Windows use `venv\Scripts\activate`
        ```
 
-       This step creates a virtual environment named `venv` for isolating your project's dependencies.
+   This step creates a virtual environment named `venv` for isolating your project's dependencies.
 
    III. **Install Required Libraries**:
        ```bash
        pip install -r requirements.txt
        ```
 
-       This command installs all necessary Python libraries listed in the `requirements.txt` file.
+   This command installs all necessary Python libraries listed in the `requirements.txt` file.
 
    IV. **Apply Database Migrations**:
        ```bash
@@ -93,14 +94,14 @@ This project, developed under the **Coherent Business Solutions** team, is a ful
        python manage.py migrate
        ```
 
-       These commands prepare and apply database migrations to create tables based on your Django models.
+   These commands prepare and apply database migrations to create tables based on your Django models.
 
    V. **Run the Django Development Server**:
        ```bash
        python manage.py runserver
        ```
 
-       Start the Django development server locally. This will run your backend at `http://localhost:8000`.
+   Start the Django development server locally. This will run your backend at `http://localhost:8000`.
 
 
 
