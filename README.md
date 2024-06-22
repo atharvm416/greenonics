@@ -64,7 +64,7 @@ This project, developed under the **Coherent Business Solutions** team, is a ful
            'PORT': '3306',        # Or your MySQL port
        }
    }
-```
+
 4. **Backend Setup**:
 
    I. **Navigate to Backend Directory**:
