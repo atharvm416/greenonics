@@ -21,7 +21,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '' #create new django file and paste the remaining data from this as I cannot chare this to the github
+SECRET_KEY = '' # Sorry, I cannot share the secret key. Please create a Django project and repeat the process, as I cannot share this on GitHub.
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
