@@ -105,7 +105,32 @@ This project, developed under the **Coherent Business Solutions** team, for comp
 
       Start the Django development server locally. This will run your backend at `http://localhost:8000`.
 
+### Screenshots
 
+1. **Home Page**:
+   
+![Screenshot (1080)](https://github.com/user-attachments/assets/bdd9afce-ea02-4448-9af3-2d1aec0abf1c)
+![Screenshot (1081)](https://github.com/user-attachments/assets/a323ec30-43ab-4db0-881e-f50533b5e51c)
+![Screenshot (1082)](https://github.com/user-attachments/assets/f875ac40-3011-42c3-85d8-0d27e71954e0)
+![Screenshot (1083)](https://github.com/user-attachments/assets/39848944-3102-4e8a-a39a-f63d7ac6f0b0)
+
+2. **User Management**:
+
+![Screenshot (1089)](https://github.com/user-attachments/assets/ca0185a0-7832-459d-9bed-b6128b55ebec)
+![Screenshot (1090)](https://github.com/user-attachments/assets/0417cad5-65c5-486f-a337-eb2d32fed86f)
+![Screenshot (1091)](https://github.com/user-attachments/assets/74562bbb-03c1-47ca-b209-884e445ef33e)
+![Screenshot (1092)](https://github.com/user-attachments/assets/7f625705-c75d-4313-bd05-9f1b4a425b38)
+
+3. **Category Section**:
+
+![Screenshot (1084)](https://github.com/user-attachments/assets/39288ace-1dd1-4ca2-a6e7-9aafb44c9c9d)
+![Screenshot (1085)](https://github.com/user-attachments/assets/ab3f2a25-aec9-4a23-9bf8-f55144c07103)
+![Screenshot (1086)](https://github.com/user-attachments/assets/77871aff-698d-4e91-ad9e-abce493a29e3)
+
+4. **Buying Option**:
+
+![Screenshot (1087)](https://github.com/user-attachments/assets/6465c16a-6d2c-490f-b34f-ddb0aaa7c8b7)
+![Screenshot (1088)](https://github.com/user-attachments/assets/58d8396b-461b-4f91-b860-377a8b06f919)
 
 
 
