@@ -8,7 +8,7 @@ This project, developed under the **Coherent Business Solutions** team, for comp
 
 ### Frontend
 
-- **Framework**: React Native
+- **Framework**: React JS
 - **Styling**: Tailwind CSS
 
 ### Backend
@@ -20,12 +20,12 @@ This project, developed under the **Coherent Business Solutions** team, for comp
 
 - **User Management**: Users can register, log in, and manage their profiles.
 - **E-commerce Functionality**: Users can browse and purchase items.
-- **AI Integration**: The frontend was initially generated using an AI tool that converts Figma designs into React Native code, significantly speeding up the development process with minimal adjustments required.
+- **AI Integration**: The frontend was initially generated using an AI tool that converts Figma designs into React JS code, significantly speeding up the development process with minimal adjustments required.
 
 ## Project Details
 
 - **Duration**: The project was developed and tested in just 2 weeks.
-- **AI Tool**: The AI tool used to convert Figma designs into React Native code played a crucial role in rapid development. This innovative approach allowed us to build a functional e-commerce website swiftly.
+- **AI Tool**: The AI tool used to convert Figma designs into React JS code played a crucial role in rapid development. This innovative approach allowed us to build a functional e-commerce website swiftly.
 
 ### Setup
 
